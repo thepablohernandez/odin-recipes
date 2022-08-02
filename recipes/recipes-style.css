@@ -1,7 +1,7 @@
 h1{
     font-size: 34px;
     font-family: "Verdana", sans-serif;
-    background-color: aquamarine;
+    background-color: #7fffd4;
 }
 
 img{
@@ -11,24 +11,34 @@ img{
 
 p{
     font-family: Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 
 h3{
     font-family: 'Courier New', Courier, monospace;
-    font-size: 20px;
+    font-size: 22px;
     text-align: center;
     background-color:#ff6666 ;
+}
+
+
+
+.subpara{
+    background-color: #1affb2;
+    text-align: left;
 }
 
 li{
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
-
-/*
 button{
     font-family: "Courier New", sans-serif;
-    background-color: darkcyan;
+    background-color: rgb(255, 187, 153);
     font-size: 16px;
 }
-*/
+
+.bye-img{
+    height: 300px;
+    width: auto;
+}
