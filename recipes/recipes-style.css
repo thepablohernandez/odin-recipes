@@ -18,10 +18,24 @@ h3{
     font-family: 'Courier New', Courier, monospace;
     font-size: 22px;
     text-align: center;
-    background-color:#ff6666 ;
 }
 
+.protip-text{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
 
+#mac{
+    background-color: #ffff80;
+}
+
+#pizza{
+    background-color: #ff9999;
+}
+
+#empa{
+    background-color: #00ffaa;
+}
 
 .subpara{
     background-color: #1affb2;
@@ -38,7 +52,18 @@ button{
     font-size: 16px;
 }
 
+#protip{
+    text-align: left;
+    background-color:#ff6666 ;
+    font-size: 18px;
+}
+
 .bye-img{
     height: 300px;
     width: auto;
+}
+
+#bye-bye{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
 }
